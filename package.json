@@ -1,0 +1,21 @@
+{
+  "name": "vuepress-plugin-code-container",
+  "version": "0.0.1",
+  "description": "Vuepress plugin with code demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuepress",
+    "vue",
+    "plugin",
+    "vuepress-plugin"
+  ],
+  "author": "ayvods@163.com",
+  "license": "ISC",
+  "devDependencies": {
+    "markdown-it": "^12.2.0",
+    "markdown-it-container": "^3.0.0"
+  }
+}
